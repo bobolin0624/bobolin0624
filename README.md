@@ -2,7 +2,8 @@
 <h3 align="center">Nice to meet you!</h3>
 
 - 💼  **Work Experience** ： Project Manager, Sales & Marketing
-- 🌱  I’m currently learning **front-end and back-end Developer of web.**
+- 💼  Looking for Back-end Engineer / Full-Stack Engineer Job.
+- 🌱  Currently learning **front-end and back-end Developer of web.**
 - 📫  How to reach me: bobolincowo@gmail.com
 
 
