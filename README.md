@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bobo</h1>
 <h3 align="center">Nice to meet you!</h3>
 
-- 💼  **Work Experience** ： Project Manager, Sales & Marketing
-- 💼  Looking for Back-end Engineer / Full-Stack Engineer Job.
-- 🌱  Currently learning **front-end and back-end Developer of web.**
+- 💼  **Work Experience** ： Back-end Developer, Project Manager, Sales & Marketing
+- 💼  Keep learning full-stack develop skills.
 - 📫  How to reach me: bobolincowo@gmail.com
 
 
