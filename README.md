@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bobo</h1>
 <h3 align="center">A software developer from Taiwan and currently working with web application.</h3>
 
 - **Work Experience** ： Back-end Developer, Project Manager, Product Manager
