@@ -107,7 +107,7 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;", align = "center">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; box-sizing: border-box;", align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=bobolin0624&show_icons=true&locale=en" alt="Chia-An's GitHub stats" height="210px" style="margin-right: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bobolin0624&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="210px" style="margin-left: auto;">
 </div>
