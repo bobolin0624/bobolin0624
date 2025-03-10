@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 <h2 align="center">Hi, I'm Chia-An (Casey) Lin ✨</h2>
-<h3 align="center">A software developer and a musicophile 🎧</h3>
+<h3 align="center">A software developer & lifelong musicophile :notes:</h3>
 
 <p align="center">
   <a href="https://codebolog.netlify.app" target="_blank">
@@ -14,98 +14,71 @@
 
 ---
 
-- 🔭 I'm a Backend Developer now and used to be a project manager for 10 years.
+- :pencil2: I'm a **Backend Developer** with 10+ years of experience in **project management**.
 
-- 💬 Looking to collaborate in: **Node.js** or **Python**.
+- :pencil2: Open to collaboration in: **Node.js**, **Python**, and **cross-functional system integration**.
 
-- 🌱 I’m currently learning **Vue**, **Python**, **Flutter**.
+- :pencil2: Currently learning: **Vue**, **Python**, and **Flutter**.
 
 - ⚡ Fun Fact: I am playing in a rock band.
 
 ---
 
-**🎓 Experience**
+**:bulb: Experience**
 
-- 🖥 Backend Developer in smart factory IoT products.
+- :arrow_right: **Backend Developer** working on smart factory IoT products.
  
-- 🧬 Project Manager for Goverment / Financial / Technology companies like NOMURA funds, TAIAN INSURANCE, Hi-Life and others.  
+- :arrow_right: Former Project Manager leading projects for Goverment / Financial / Technology companies such as **leading financial institutions**, **insurance firms**, and **technology companies** in Taiwan.
 
 ---
 
-**🧰 My Tool Box**
+**:anchor: Tech Toolbox**
 
- <div align="center">
-<table style="width: 800px; border-collapse: collapse; align="center">
+<div align="center">
 
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
 <tr>
-    <td style="width: 25%; text-align: center;">
-      <p><b> Programming Languages</b></p>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-      <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-      </a>    
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-    </td>
-  <td style="width: 25%; text-align: center;">
-      <p><b>Development</p>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-      </a>
-       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-       </a>
-       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-       </a>
-    </td>
-    <td style="width: 25%; text-align: center;">
-      <p><b>Database</b></p>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-      <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-    </td>
-    <td style="width: 25%; text-align: center;">
-      <p><b>DevOps</b></p>
-     <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    </td>
-    <td style="width: 25%; text-align: center;">
-      <p><b>Tool & Others</b></p>
-     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-     </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-      </a>
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-      </a>
-      <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-      </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-      </a>
-    </td>
-  </tr>
+
+<td><b>Programming</b><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
+</td>
+
+<td><b>Frameworks</b><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" title="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" title="Bootstrap"/>
+</td>
+
+<td><b>Databases</b><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" title="Redis"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" title="MariaDB"/>
+</td>
+
+<td><b>DevOps</b><br>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" title="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
+</td>
+
+<td><b>Tools & Others</b><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" title="Jest"/>
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="40" title="Sketch"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
+</td>
+
+</tr>
 </table>
 </div>
-<br>
 
 ---
+#### :eight_pointed_black_star: GitHub Stats
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%; box-sizing: border-box;", align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=bobolin0624&show_icons=true&locale=en" alt="Chia-An's GitHub stats" height="210px" style="margin-right: auto;">
@@ -113,7 +86,7 @@
 </div>
 
 ---
-
+#### 🌐 
 <h3 align="center"></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/chia-an-lin-ba2a03218/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yi-an-lin-692a73128" height="25" width="25" /></a>
@@ -121,4 +94,3 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/shirleylin39" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/shirleylin39" />
 </p>
-
