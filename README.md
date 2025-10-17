@@ -18,7 +18,7 @@
 
 - :pencil2: Open to collaboration in: **Node.js**, **Python**, and **cross-functional system integration**.
 
-- :pencil2: Currently learning: **Vue**, **Python**, and **Flutter**.
+- :pencil2: Currently learning: **Vue**, **PHP (Laravel)**, and **Flutter**.
 
 - ⚡ Fun Fact: Used to rock on stage, now I play guitar on air.
 
