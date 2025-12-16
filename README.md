@@ -26,7 +26,7 @@
 
 **:bulb: Experience**
 
-- :arrow_right: **Backend Developer** working on smart factory IoT products and other projects.
+- :arrow_right: **Software Developer** working on smart factory IoT products and other projects.
  
 - :arrow_right: Former Project Manager leading projects for Goverment / Financial / Technology companies such as **leading financial institutions**, **insurance firms**, and **technology companies** in Taiwan.
 
@@ -67,6 +67,7 @@
 <b>DevOps</b><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" title="Docker"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" title="Kubernetes"/><br>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" title="GCP"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
 </td>
 
